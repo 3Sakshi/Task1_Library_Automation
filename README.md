@@ -34,6 +34,7 @@ Task1_Library_Automation/
 ├── validators.py
 ├── test_library.py
 └── README.md
+```
 
 ## ▶️ How to Run
 Run the application using:
