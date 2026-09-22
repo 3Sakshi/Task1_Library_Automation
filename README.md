@@ -56,13 +56,13 @@ Current test result:
 
 ## 📚 Main Operations
 The application provides the following operations:
-1 Add Book
-2 View All Books
-3 Search Book
-4 Issue Book
-5 Return Book
-6 Delete Book
-7 Exit
+1  Add Book
+2  View All Books
+3  Search Book
+4  Issue Book
+5  Return Book
+6  Delete Book
+7  Exit
 
 ## 🎯 Learning Outcomes
 Through this project, I practiced:
