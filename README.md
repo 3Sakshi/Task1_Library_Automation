@@ -56,7 +56,7 @@ Current test result:
 
 ## 📚 Main Operations
 The application provides the following operations:
-1  Add Book
+1 .Add Book
 2  View All Books
 3  Search Book
 4  Issue Book
