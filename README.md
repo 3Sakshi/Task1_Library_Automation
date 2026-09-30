@@ -1,4 +1,4 @@
-# Task1_Library_Automation
+# Library_Automation
 A Python-based Library Automation Tool developed as part of the Skyrovix Python Development Internship.
 
 ## 📌 Project Overview
